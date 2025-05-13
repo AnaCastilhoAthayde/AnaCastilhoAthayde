@@ -16,7 +16,7 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
         <img 
             alt="Discord" 
             title="Entra no meu grupo" 
-            src="https://discord.gg/d593bY7d"
+             <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 />
         
