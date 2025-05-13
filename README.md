@@ -8,12 +8,10 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
 <img 
      src="<a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>"
  
-<p align="left">
-    <a href="https://www.instagram.com/aninhaa.castilho/">
-        <img 
-            alt="Discord" 
-            title="Entra no meu grupo" 
-             <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <img 
+alt="Discord" 
+ title="Entra no meu grupo" 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 />
         
