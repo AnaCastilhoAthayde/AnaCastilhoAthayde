@@ -28,7 +28,7 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
             src="https://custom-icon-badges.demolab.com/github/followers/AnaCastilhoAthayde?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=wehit"
         />
     </a> 
-    <a href="https://www.linkedin.com/in/ana-luiza-castilho-741975365/">
+    <a href="<a href="https://www.linkedin.com/in/paulo-henrique-de-maria-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
