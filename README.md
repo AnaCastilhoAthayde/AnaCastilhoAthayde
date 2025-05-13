@@ -5,11 +5,6 @@
 Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. Estou cursando ensino médio no colégio colaço. Atualmente, estou cursando Programação em Python na Fabrica de Programadores em Santana de Parnaìba. Sou apaixonada por tecnologia e jogos online, sempre me encontrei nessa áera, desde pequena mexo com equipamentos tecnológicos como cameras, projeção em telão ou storymaker.
 
 
-
-
-
-
-
 <img 
             alt="Instagram" 
             title="Segue meu perfil" 
