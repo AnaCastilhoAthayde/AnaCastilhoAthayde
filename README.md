@@ -6,9 +6,7 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
 
 
 <img 
-            alt="Instagram" 
-            title="Segue meu perfil" 
-            src="<a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>"
+     src="<a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>"
  
 <p align="left">
     <a href="https://www.instagram.com/aninhaa.castilho/">
