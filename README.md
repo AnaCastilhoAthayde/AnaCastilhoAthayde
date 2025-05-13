@@ -5,7 +5,8 @@
 Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. Estou cursando ensino médio no colégio colaço. Atualmente, estou cursando Programação em Python na Fabrica de Programadores em Santana de Parnaìba. Sou apaixonada por tecnologia e jogos online, sempre me encontrei nessa áera, desde pequena mexo com equipamentos tecnológicos como cameras, projeção em telão ou storymaker.
 
 
-src="<a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>"
+src=
+"<a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>"
  
 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
