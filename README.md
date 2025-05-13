@@ -7,7 +7,9 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
 
 
 <a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/d593bY7d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/d593bY7d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<a href="<a href="https://www.linkedin.com/in/ana-luiza-castilho-741975365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</a>
 
        
  <a>
@@ -18,11 +20,10 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
             src="https://custom-icon-badges.demolab.com/github/followers/AnaCastilhoAthayde?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=wehit"
         />
     </a> 
-    <a href="<a href="https://www.linkedin.com/in/paulo-henrique-de-maria-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <img 
+    <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/AnaCastilhoAthayde?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
    
       
