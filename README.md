@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heloo+Everyone+Welcome+to+my+Git+Hub)](https://git.io/typing-svg)
-
 💕 Ana Luiza Castilho
 --------------------------------
 
