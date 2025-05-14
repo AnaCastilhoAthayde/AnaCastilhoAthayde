@@ -26,7 +26,7 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/AnaCastilhoAthayde?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
- 
+------------------------------------------------------------------------------------------------------------------------------------------ 
 <img 
     align="left" 
     alt="Python" 
