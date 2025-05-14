@@ -1,4 +1,4 @@
-## Ana Luiza Castilho
+# 💕 Ana Luiza Castilho
 
 **`Python`**
 
@@ -9,16 +9,9 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
 <a href="https://instagram.com/aninhaa.castilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/d593bY7d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/ana-luiza-castilho-741975365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:castilho.athayde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:castilho.athayde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
-
-
-
-
-  ![Snake animation](https://github.com/AnaCastilhoAthayde/AnaCastilhoAthayde/blob/output/github-contribution-grid-snake.svg)
-
-
-       
+     
  <a>
     <a href="https://github.com/AnaCastilhoAthayde">
         <img 
@@ -34,9 +27,6 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
         />
    
       
-    
-
-
 
 ### 📊 Estatísticas
 
