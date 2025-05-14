@@ -27,7 +27,6 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
         />
    
       
-
 ### 📊 Estatísticas
 
 <p>
@@ -47,5 +46,3 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
   />
 
 </p>
- <e>img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
-</pictur
