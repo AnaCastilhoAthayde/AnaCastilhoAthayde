@@ -13,7 +13,9 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
 
 
 
-![Snake animation](https://github.com/AnaCastilhoAthayde/AnaCastilhoAthayde/blob/output/github-contribution-grid-snake.svg)
+
+
+  ![Snake animation](https://github.com/AnaCastilhoAthayde/AnaCastilhoAthayde/blob/output/github-contribution-grid-snake.svg)
 
 
        
