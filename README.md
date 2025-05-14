@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Heloo Dev!, Welcome to my GitHub)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Heloo Dev!,Welcome,to,my,GitHub)](https://git.io/typing-svg)
 
 # 💕 Ana Luiza Castilho
 --------------------------------
