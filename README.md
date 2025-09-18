@@ -37,6 +37,27 @@ Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<div align="center">
+  
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 <br/>
 
