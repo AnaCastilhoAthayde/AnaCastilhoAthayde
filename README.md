@@ -5,7 +5,7 @@
 
 **`Python`**
 
-Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas pela estácio ead. A pouco tempo me formei na Fábrica de Programadores/Senai no curso avançado de Python. Sou apaixonada por tecnologia e jogos online, me encontrei nessa áera, desde pequena amo manusear equipamentos tecnológicos como cameras, projeção em telão e agora a programação é minha paixão.
+Me chamo Ana Luiza Castilho Athayde, tenho 17 anos e sou natural de São Paulo. A pouco tempo me formei na Fábrica de Programadores/Senai no curso avançado de Python. Sou apaixonada por tecnologia e jogos online, me encontrei nessa áera, desde pequena amo manusear equipamentos tecnológicos como cameras, projeção em telão e agora a programação é minha paixão.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  # 🌐 Socials:
 <a href="https://www.instagram.com/dev.ana_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
