@@ -5,7 +5,24 @@
 
 **`Python`**
 
-Me chamo Ana Luiza Castilho Athayde, tenho 18 anos e sou natural de São Paulo. A pouco tempo me formei na Fábrica de Programadores/Senai no curso avançado de Python. Sou apaixonada por tecnologia e jogos online, me encontrei nessa áera, desde pequena amo manusear equipamentos tecnológicos como cameras, projeção em telão e agora a programação é minha paixão.
+# Olá! Eu sou a Ana Luiza! 👩🏻‍💻💗
+
+Sou natural de São Paulo e apaixonada por tecnologia, programação e jogos online.
+
+Minha conexão com a tecnologia começou desde pequena, quando descobri meu interesse por equipamentos tecnológicos, como câmeras, projeções e recursos audiovisuais. Com o tempo, essa curiosidade se transformou em uma paixão pela programação, área na qual encontrei minha identificação e desejo de construir minha carreira.
+
+Recentemente, concluí minha formação avançada em **Python pela Fábrica de Programadores / SENAI**, ampliando meus conhecimentos e desenvolvendo minhas habilidades na área de desenvolvimento.
+
+🚀 **Atualmente, estou em constante aprendizado, explorando novas tecnologias e desenvolvendo projetos para aprimorar minhas habilidades como desenvolvedora.**
+
+### ✨ Interesses
+- Desenvolvimento de software
+- Python e programação
+- Desenvolvimento Web e Front-end
+- Tecnologia e inovação
+- Jogos e tecnologia gamer
+
+Acredito que a tecnologia vai muito além de códigos: é uma ferramenta para transformar ideias em realidade. 💗
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  # 🌐 Socials:
 <a href="https://www.instagram.com/dev.ana_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
